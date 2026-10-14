@@ -1,42 +1,46 @@
 # Diseño Elevador de Carga
 En el presente repositorio se hace la primera parte de la primera entrega del proyecto de curso de Diseño Mecatrónico. A continuación, se presentan las especificaciones y aspectos generales del elevador seleccionado por el equipo 3.
 
-# 🏭 Proyecto Diseño Mecatrónico — Entrega No. 1: Identificación y Especificaciones Técnicas
+# Proyecto Diseño Mecatrónico — Entrega No. 1: Identificación y Especificaciones Técnicas
 
 **Asignatura:** Diseño Mecatrónico  
 **Universidad Nacional de Colombia — Sede Bogotá**  
 **Departamento de Ingeniería Mecánica y Mecatrónica**  
+**Integrantes: Manuel Arturo Fajardo Contreras, Alejandro Padilla Camargo, Daniela Rodriguez Arellano**
 
 ---
 
-## 👥 1. Identificación del Equipo y del Sistema
+## 1. Identificación del Equipo y del Sistema
 
 | Parámetro | Detalle |
 | :--- | :--- |
-| **Nombre del Equipo de Trabajo** | `[Escribe aquí el nombre de tu equipo]` |
-| **Marca Comercial** | `[Ej. ENGEL / Haitian / KraussMaffei]` |
-| **Empresa Fabricante** | `[Nombre completo de la empresa]` |
-| **País de Origen** | `[Ej. Alemania / China / Austria]` |
-| **Año de Fabricación** | `[Ej. 2018 / No disponible]` |
-| **Precio Comercial Estimado** | `[Ej. $45,000 USD]` |
+| **Nombre del Equipo** | `Apilador eléctrico con estabilizadores` |
+| **Marca Comercial** | `Yale` |
+| **Modelo** | `MSW025-F` |
+| **País de Origen** | `Norteamérica, Japón o Europa (principales sedes)` |
+| **Año de Fabricación** | `2019` |
+| **Precio Comercial Estimado** | `$23'346'182 COP ($7950 USD)` |
 
-### 🎨 Logotipo de la Marca
-![Logo de la Marca](https://via.placeholder.com/200x80?text=Logo+Marca) 
-*(Reemplaza la URL anterior con el enlace directo al logo de la marca)*
+###  Logotipo de la Marca
+<img width="781" height="547" alt="image" src="https://github.com/user-attachments/assets/07782cdf-d278-4fca-b9b3-76d09725e109" />
+
 
 ---
 
-## 📷 2. Material Visual y Descriptivo
+##  2. Material Visual y Descriptivo
 
 ### Fotografías del Equipo
-* **Vista General / Frontal:**  
-  ![Vista General](https://via.placeholder.com/600x350?text=Foto+General+Inyectora)
-* **Vista Lateral / Placa de Características:**  
-  ![Placa Tecnica](https://via.placeholder.com/600x350?text=Foto+Placa+Tecnica)
 
-### 🎥 Video Descriptivo
-- 📺 [Haz clic aquí para ver el video explicativo de funcionamiento](https://www.youtube.com/) *(Inserta el enlace a tu video o video de referencia)*
+<img width="614" height="460" alt="image" src="https://github.com/user-attachments/assets/eff29bf1-0ce3-4d7c-b747-2b9e07abb74e" />
+<img width="614" height="460" alt="image" src="https://github.com/user-attachments/assets/db687d11-ff93-447f-a564-97085300b841" />
+<img width="614" height="460" alt="image" src="https://github.com/user-attachments/assets/2573d692-ac0e-4f84-a0e7-425c89725eda" />
+<img width="614" height="460" alt="image" src="https://github.com/user-attachments/assets/57777d26-013f-4fe2-8ba2-82d3261e75c0" />
+<img width="614" height="460" alt="image" src="https://github.com/user-attachments/assets/80424360-7cfd-44b5-9ef2-5ed7b9b16557" />
+<img width="614" height="460" alt="image" src="https://github.com/user-attachments/assets/7679bc3d-47d9-4639-b060-3928e85c00ec" />
 
+
+###  Video Descriptivo
+[![Ver video del funcionamiento](https://img.youtube.com/vi/AGadQGF4Pz0/maxresdefault.jpg)](https://youtu.be/AGadQGF4Pz0)
 ---
 
 ## ⚙️ 3. Especificaciones Técnicas y de Funcionamiento
