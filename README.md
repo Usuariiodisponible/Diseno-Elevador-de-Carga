@@ -43,36 +43,28 @@ En el presente repositorio se hace la primera parte de la primera entrega del pr
 [![Ver video del funcionamiento](https://img.youtube.com/vi/AGadQGF4Pz0/maxresdefault.jpg)](https://youtu.be/AGadQGF4Pz0)
 ---
 
-## ⚙️ 3. Especificaciones Técnicas y de Funcionamiento
+##  3. Especificaciones Técnicas y de Funcionamiento
 
-### ⚡ 3.1 Especificaciones Generales y Electromecánicas
-* **Tipo de Inyectora:** `[Hidráulica / Eléctrica / Híbrida]`
-* **Dimensiones Físicas (Largo × Ancho × Alto):** `[Ej. 3.5 m × 1.2 m × 1.8 m]`
-* **Tipo y Voltaje de Alimentación:** `[Ej. Trifásica 220V / 380V / 440V - 60 Hz]`
-* **Potencia Nominal:** `[Ej. 15 kW]`
-* **Masa / Peso:** `[Ej. 2500 kg / 24.5 kN]`
+###  3.1 Especificaciones Electromecánicas y Generales
+* **Tipo de Equipo:** Apilador electromecánico de conductor a pie
+* **Dimensiones Físicas (Largo × Ancho × Altura Replegada):** 2040 mm × 857 mm × 1829 mm (según configuración de mástil)
+* **Tipo y Voltaje de Alimentación:** Eléctrica DC mediante batería industrial de 255 Ah y 24 V (Plomo-Ácido)
+* **Potencia Nominal:**
+  * Motor de tracción: 2,3 hp
+  * Motor de la bomba hidráulica de elevación: 4 hp
+* **Masa / Peso del Equipo:** 1046 kg (sin batería)
 
 ---
 
-### 🔧 3.2 Especificaciones Operativas y de Inyección
+###  3.2 Especificaciones Operativas y de Carga
 
-| Parámetro Operativo | Valor / Unidad |
+| Parámetro Operativo | Valor / Unidad de Medida |
 | :--- | :--- |
-| **Fuerza de Cierre** | `[Ej. 1000 kN / 100 Toneladas]` |
-| **Gramaje de Inyección (Capacidad de disparo)** | `[Ej. 150 g (en PS)]` |
-| **Presión de Inyección** | `[Ej. 1800 bar]` |
-| **Velocidad de Inyección** | `[Ej. 120 mm/s]` |
-| **Capacidad de Plastificación** | `[Ej. 18 g/s]` |
-| **Distancia entre Barras (H × V)** | `[Ej. 410 mm × 410 mm]` |
-| **Carrera de Apertura** | `[Ej. 350 mm]` |
-| **Tamaño Mínimo del Molde** | `[Ej. 150 mm]` |
-| **Tamaño Máximo del Molde** | `[Ej. 450 mm]` |
-
-#### Otras Especificaciones Adicionales
-- **Diámetro del husillo/husillo inyector:** `[Ej. 35 mm]`
-- **Relación L/D del husillo:** `[Ej. 20:1]`
-- **Capacidad del tanque hidráulico (si aplica):** `[Ej. 120 Litros]`
-- **Otras:** `[Agregar otros parámetros importantes]`
-
----
-*Documento preparado para la Entrega No. 1 del curso de Diseño Mecatrónico.*
+| **Capacidad Nominal de Carga** | **2,500 lbs (1,134 kg)** |
+| **Centro de Carga (*Load Center - COG*)** | **24" (610 mm)** |
+| **Altura Máxima de Elevación de Horquillas** | **104" (2.64 m a 3.10 m)**|
+| **Velocidad de Desplazamiento / Tracción** | 4.5 km/h – 5.0 km/h |
+| **Velocidad de Elevación (Con carga / Sin carga)** | 0.11 m/s / 0.15 m/s |
+| **Velocidad de Bajada (Con carga)** | 0.40 m/s |
+| **Radio de Giro Mínimo (*Turning Radius*)** | 1.96 m |
+| **Capacidad Máxima de Pendiente / Inclinación** | 10% |
