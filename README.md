@@ -1,5 +1,5 @@
 # Diseño Elevador de Carga
-En el presente repositorio se hace la primera parte de la primera entrega del proyecto de curso de Diseño Mecatrónico. A continuación, se presentan las especificaciones y aspectos generales del elevador seleccionado por el equipo 3.
+En el presente repositorio se hace la primera parte de la primera entrega del proyecto de curso de Diseño Mecatrónico. A continuación, se presentan las especificaciones y aspectos generales del elevador seleccionado por el equipo 3. Se decidió trabajar en github ya que no pudimos habilitar una wiki en el curso de Diseño mecatrónico en el moodle.
 
 # Proyecto Diseño Mecatrónico — Entrega No. 1: Identificación y Especificaciones Técnicas
 
